@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-statsmodels
-pmdarima
-openpyxl
-xlrd
